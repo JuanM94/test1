@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/JuanM94/test1/refs/heads/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/JuanM94/test1/refs/heads/main/test2.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/JuanM94/test1/refs/heads/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/JuanM94/test1/refs/heads/main/test2.yaml",
             "name": "Test"
         }
     ]
