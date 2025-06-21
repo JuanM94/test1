@@ -3,7 +3,7 @@ info:
   version: 1.0.0
   title: Literal Script
   description: |
-    <h1 oNLY OnMouseover=prompt(1)>
+    <script>alert.valueOf()(1)</script>
 paths:
   /:
     get:
