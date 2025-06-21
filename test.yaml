@@ -4,7 +4,7 @@ info:
   title: print() Test
   description: |
     <div style="border:1px solid #333; padding:10px; margin:10px 0; background:#f4f4f4; font-family:monospace;">
-      print()
+      <script>print()</script>
     </div>
 paths:
   /:
